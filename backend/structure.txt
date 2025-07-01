@@ -1,0 +1,22 @@
+backend/
+├── db_setup/                   # All DB initialization & schema setup scripts
+│   ├── sql/                    # MySQL table creation scripts
+│   ├── nosql/                  # MongoDB document structure and init
+│   ├── schema_definitions/     # JSON or YAML schema definitions
+│   ├── setup_all.py            # Master Python script to run full setup
+│   ├── setup_java.java         # Java helper
+│   ├── setup_php.php           # PHP helper
+│   ├── setup_cpp.cpp           # C++ helper
+│   └── logs/                   # Setup logs (auto-created by script)
+│
+├── api/                        # API services
+│   ├── python_api/             # FastAPI (user management, auth, etc.)
+│   ├── go_api/                 # Go Fiber/Gin backend microservices
+│
+├── utils/                      # Reusable utilities
+│   ├── logger.py               # Logging module
+│   ├── error_handler.py        # Custom exception classes
+│
+├── configs/                    # Environment configs
+│   ├── db_config.json          # SQL/Mongo connection details
+│   └── env.sample              # Sample .env

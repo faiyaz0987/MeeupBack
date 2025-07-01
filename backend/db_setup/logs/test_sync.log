@@ -1,0 +1,1 @@
+2025-06-26 13:04:02,049 - ERROR - Test sync failed: 'DBSync' object has no attribute 'insert_host_participant'

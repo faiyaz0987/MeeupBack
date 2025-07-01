@@ -1,0 +1,43 @@
+2025-06-20 21:02:26,511 - INFO - Loaded DB config successfully.
+2025-06-20 21:02:30,653 - ERROR - MySQL connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-06-20 21:02:30,653 - ERROR - Setup failed: MySQL connection error.
+2025-06-20 21:04:22,491 - INFO - Loaded DB config successfully.
+2025-06-20 21:04:26,597 - ERROR - MySQL connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-06-20 21:04:26,597 - ERROR - Setup failed: MySQL connection error.
+2025-06-20 21:06:01,795 - INFO - Loaded DB config successfully.
+2025-06-20 21:06:01,855 - ERROR - MySQL connection failed: 1049 (42000): Unknown database 'myapp_db'
+2025-06-20 21:06:01,856 - ERROR - Setup failed: MySQL connection error.
+2025-06-20 21:07:11,612 - INFO - Loaded DB config successfully.
+2025-06-20 21:07:11,654 - INFO - Connected to MySQL successfully.
+2025-06-20 21:07:11,673 - INFO - Connected to MongoDB successfully.
+2025-06-20 21:07:11,673 - INFO - Setup completed successfully.
+2025-06-20 21:19:03,250 - INFO - Loaded DB config successfully.
+2025-06-20 21:19:03,277 - INFO - Connected to MySQL successfully.
+2025-06-20 21:19:03,280 - INFO - Connected to MongoDB successfully.
+2025-06-20 21:19:03,280 - INFO - Setup completed successfully.
+2025-06-20 21:19:03,525 - INFO - Executed admin_table.sql successfully.
+2025-06-20 21:19:03,779 - INFO - Executed host_participant_table.sql successfully.
+2025-06-20 21:19:04,411 - ERROR - Failed to initialize SQLite: local variable 'conn' referenced before assignment
+2025-06-20 21:21:46,173 - INFO - Loaded DB config successfully.
+2025-06-20 21:21:46,182 - ERROR - Failed to initialize SQLite: local variable 'conn' referenced before assignment
+2025-06-20 21:24:17,224 - INFO - Loaded DB config successfully.
+2025-06-20 21:24:17,317 - INFO - Connected to MySQL successfully.
+2025-06-20 21:24:17,320 - INFO - Connected to MongoDB successfully.
+2025-06-20 21:24:17,320 - INFO - Setup completed successfully.
+2025-06-20 21:24:17,321 - INFO - Executed admin_table.sql successfully.
+2025-06-20 21:24:17,322 - INFO - Executed host_participant_table.sql successfully.
+2025-06-20 21:27:31,753 - INFO - Loaded DB config successfully.
+2025-06-20 21:27:31,762 - ERROR - MongoDB collection init failed: name 'mongo_uri' is not defined
+2025-06-20 22:32:54,265 - INFO - Loaded DB config successfully.
+2025-06-20 22:32:54,267 - ERROR - MongoDB collection init failed: 'host'
+2025-06-26 11:15:15,535 - INFO - Loaded DB config successfully.
+2025-06-26 11:15:15,557 - ERROR - MongoDB collection init failed: 'host'
+2025-06-26 11:19:14,964 - INFO - Loaded DB config successfully.
+2025-06-26 11:19:19,291 - ERROR - MySQL connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-06-26 11:19:19,291 - ERROR - Setup failed: MySQL connection error.
+2025-06-26 11:19:31,552 - INFO - Loaded DB config successfully.
+2025-06-26 11:19:31,691 - INFO - Connected to MySQL successfully.
+2025-06-26 11:19:31,697 - INFO - Executed admin_table.sql successfully.
+2025-06-26 11:19:31,750 - INFO - Executed host_participant_table.sql successfully.
+2025-06-26 11:19:31,783 - INFO - Connected to MongoDB successfully.
+2025-06-26 11:19:32,133 - INFO - Setup completed successfully.
